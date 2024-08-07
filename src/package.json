@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@antv/x6": "latest",
+    "@antv/x6-plugin-clipboard": "latest",
+    "@antv/x6-plugin-history": "latest",
+    "@antv/x6-plugin-keyboard": "latest",
+    "@antv/x6-plugin-selection": "latest",
+    "@antv/x6-plugin-snapline": "latest",
+    "@antv/x6-plugin-stencil": "latest",
+    "@antv/x6-plugin-transform": "latest",
+    "insert-css": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "main": "index.ts"
+}
